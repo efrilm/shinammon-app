@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2684945253",
+    "project_id": "shinnamon-73f59",
+    "storage_bucket": "shinnamon-73f59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2684945253:android:e9e110ccef0859fe19978c",
+        "android_client_info": {
+          "package_name": "com.gr.shinnamon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2684945253-fobkn1glu542dftqaganhjm50qqftip8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_O_4IkOMAGR2zB-vbrv3b86R6dGA99r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2684945253-fobkn1glu542dftqaganhjm50qqftip8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
